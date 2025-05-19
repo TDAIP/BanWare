@@ -1,0 +1,14 @@
+{
+  "banned_hwids": [
+    {
+      "hwid": "ABC123456789",
+      "ban_date": "2025-05-19",
+      "reason": "Cheat detected"
+    },
+    {
+      "hwid": "XYZ987654321",
+      "ban_date": "2025-05-10",
+      "reason": "Multiple accounts"
+    }
+  ]
+}
