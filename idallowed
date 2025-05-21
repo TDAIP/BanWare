@@ -1,0 +1,16 @@
+{
+  "allowed_hardware_ids": [
+    {
+      "hwid": "ABC123DEF456",
+      "owner": "User1",
+      "last_access": "2025-05-21T10:30:00Z",
+      "notes": "Premium user"
+    },
+    {
+      "hwid": "XYZ789GHI012",
+      "owner": "User2",
+      "last_access": "2025-05-20T15:45:00Z",
+      "notes": "Trial user"
+    }
+  ]
+}
